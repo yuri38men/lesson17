@@ -1,4 +1,4 @@
-# # Задание 1
+# Задание 1
 class Example:
     stat_num1 = 6
     stat_num2 = 2
