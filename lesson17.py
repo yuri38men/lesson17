@@ -58,3 +58,7 @@ class Calculator:
 
 object = Calculator()
 object.func()
+
+
+
+print('Привет, мир!')
